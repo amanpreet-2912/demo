@@ -2,4 +2,4 @@
 
 This is my first repository.
 <br>
-Author - Amanpreet Kaur(CQST)
+Author - Amanpreet Kaur(CodeQuotient)
